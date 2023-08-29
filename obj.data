@@ -1,0 +1,10 @@
+classes = 1
+train = data/train.txt
+names = data/obj.names
+backup = backup/
+
+classes = 1
+train = data/train.txt
+names = data/obj.names
+backup = backup/
+
